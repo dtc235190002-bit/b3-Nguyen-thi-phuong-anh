@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>b3_Nguyen_thi_phuong_anh</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Category\" />
+  </ItemGroup>
+
+</Project>
